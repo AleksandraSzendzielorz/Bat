@@ -16,7 +16,8 @@ body {
   height: 100vw;
 }
 body *,
-*:before. *:after {
+*:before,
+g*:after {
   box-sizing: border-box;
   position: absolute;
   margin: 0;
